@@ -1,1 +1,2 @@
-# biodata_dian
+g++ biodata.cpp -o biodata
+./biodata
